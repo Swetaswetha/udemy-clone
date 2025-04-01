@@ -14,7 +14,7 @@ Welcome to my **Udemy Clone** project! This is a **responsive educational websit
 
 ## How to View  
 Visit the **Udemy Clone Website** here:  
-👉 []  
+👉 [https://swetaswetha.github.io/udemy-clone/]  
 
 Thank you for checking out my project!  
 
